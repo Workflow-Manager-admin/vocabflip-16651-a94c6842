@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew test",
+    "working_directory": "/home/kavia/workspace/code-generation/vocabflip-16651-a94c6842/flashcards_frontend"
+}
